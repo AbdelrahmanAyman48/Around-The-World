@@ -61,4 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Author](https://github.com/AbdelrahmanAyman48/)
 - [Website](https://vercel.com/abs-projects-a0d3e74b)
 - [Email](mailto:Abdelrmanayman48@gmail.com)
-- Linkedin - [Abdelrahman-Ayman](https://www.linkedin.com/in/abdelrahman-ayman-290674252/)
+- [Linkedin](https://www.linkedin.com/in/abdelrahman-ayman-290674252/)
